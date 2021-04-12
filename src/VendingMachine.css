@@ -1,0 +1,22 @@
+.VendingMachine {
+    background-color: aquamarine;
+    text-align: center;
+    display: flex;
+}
+
+.Navbar a {
+    margin: 1rem;
+    font-size: 1.5rem;
+    color: rgba(189, 12, 130, 0.2);
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.Navbar a:hover {
+    text-decoration: none;
+    color: rgba(189, 12, 130, 1.0)
+
+}
+
+
